@@ -1,4 +1,4 @@
-btcutil
+ltcutil
 =======
 
 [![Build Status](http://img.shields.io/travis/btcsuite/btcutil.svg)](https://travis-ci.org/btcsuite/btcutil)
@@ -21,7 +21,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/btcsuite/btcutil
+$ go get -u github.com/rocpig/ltcutil
 ```
 
 ## GPG Verification Key
