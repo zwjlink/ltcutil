@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2017 The rocpig developers
+// Copyright (c) 2013-2017 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -12,8 +12,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/rocpig/ltcd/chaincfg"
-	"github.com/rocpig/ltcutil"
+	"github.com/zwjlink/ltcd/chaincfg"
+	"github.com/zwjlink/ltcutil"
 	"golang.org/x/crypto/ripemd160"
 )
 

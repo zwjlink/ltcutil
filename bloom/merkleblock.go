@@ -1,14 +1,14 @@
-// Copyright (c) 2013-2016 The rocpig developers
+// Copyright (c) 2013-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
 package bloom
 
 import (
-	"github.com/rocpig/ltcd/blockchain"
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcd/wire"
-	"github.com/rocpig/ltcutil"
+	"github.com/zwjlink/ltcd/blockchain"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcd/wire"
+	"github.com/zwjlink/ltcutil"
 )
 
 // merkleBlock is used to house intermediate information needed to generate a

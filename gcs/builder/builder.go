@@ -1,4 +1,4 @@
-// Copyright (c) 2017 The rocpig developers
+// Copyright (c) 2017 The zwjlink developers
 // Copyright (c) 2017 The Lightning Network Developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
@@ -10,10 +10,10 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcd/txscript"
-	"github.com/rocpig/ltcd/wire"
-	"github.com/rocpig/ltcutil/gcs"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcd/txscript"
+	"github.com/zwjlink/ltcd/wire"
+	"github.com/zwjlink/ltcutil/gcs"
 )
 
 const (

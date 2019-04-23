@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2017 The rocpig developers
+// Copyright (c) 2014-2017 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -16,7 +16,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/rocpig/ltcd/chaincfg"
+	"github.com/zwjlink/ltcd/chaincfg"
 )
 
 // TestBIP0032Vectors tests the vectors provided by [BIP32] to ensure the

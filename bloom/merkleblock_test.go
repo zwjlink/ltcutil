@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2016 The rocpig developers
+// Copyright (c) 2013-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -9,10 +9,10 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcd/wire"
-	"github.com/rocpig/ltcutil"
-	"github.com/rocpig/ltcutil/bloom"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcd/wire"
+	"github.com/zwjlink/ltcutil"
+	"github.com/zwjlink/ltcutil/bloom"
 )
 
 func TestMerkleBlock3(t *testing.T) {

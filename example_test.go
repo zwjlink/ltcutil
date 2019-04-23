@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"github.com/rocpig/ltcutil"
+	"github.com/zwjlink/ltcutil"
 )
 
 func ExampleAmount() {

@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2016 The rocpig developers
+// Copyright (c) 2013-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -8,10 +8,10 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/rocpig/ltcd/btcec"
-	"github.com/rocpig/ltcd/chaincfg"
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcutil/base58"
+	"github.com/zwjlink/ltcd/btcec"
+	"github.com/zwjlink/ltcd/chaincfg"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcutil/base58"
 )
 
 // ErrMalformedPrivateKey describes an error where a WIF-encoded private

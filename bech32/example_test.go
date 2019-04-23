@@ -1,4 +1,4 @@
-// Copyright (c) 2017 The rocpig developers
+// Copyright (c) 2017 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -8,7 +8,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/rocpig/ltcutil/bech32"
+	"github.com/zwjlink/ltcutil/bech32"
 )
 
 // This example demonstrates how to decode a bech32 encoded string.

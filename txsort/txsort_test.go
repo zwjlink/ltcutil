@@ -1,4 +1,4 @@
-// Copyright (c) 2015-2016 The rocpig developers
+// Copyright (c) 2015-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/rocpig/ltcd/wire"
-	"github.com/rocpig/ltcutil/txsort"
+	"github.com/zwjlink/ltcd/wire"
+	"github.com/zwjlink/ltcutil/txsort"
 )
 
 // TestSort ensures the transaction sorting works according to the BIP.

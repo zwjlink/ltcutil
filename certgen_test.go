@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2015 The rocpig developers
+// Copyright (c) 2013-2015 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/rocpig/ltcutil"
+	"github.com/zwjlink/ltcutil"
 	//"github.com/davecgh/go-spew/spew"
 )
 

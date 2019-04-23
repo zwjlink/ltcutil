@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2017 The rocpig developers
+// Copyright (c) 2013-2017 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -12,9 +12,9 @@ interface. The functions are only exported while the tests are being run.
 package ltcutil
 
 import (
-	"github.com/rocpig/ltcd/btcec"
-	"github.com/rocpig/ltcutil/base58"
-	"github.com/rocpig/ltcutil/bech32"
+	"github.com/zwjlink/ltcd/btcec"
+	"github.com/zwjlink/ltcutil/base58"
+	"github.com/zwjlink/ltcutil/bech32"
 	"golang.org/x/crypto/ripemd160"
 )
 

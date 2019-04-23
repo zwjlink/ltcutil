@@ -1,4 +1,4 @@
-// Copyright (c) 2014 The rocpig developers
+// Copyright (c) 2014 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -7,8 +7,8 @@ package hdkeychain_test
 import (
 	"fmt"
 
-	"github.com/rocpig/ltcd/chaincfg"
-	"github.com/rocpig/ltcutil/hdkeychain"
+	"github.com/zwjlink/ltcd/chaincfg"
+	"github.com/zwjlink/ltcutil/hdkeychain"
 )
 
 // This example demonstrates how to generate a cryptographically random seed

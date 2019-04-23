@@ -21,7 +21,7 @@ provided.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/rocpig/ltcutil
+$ go get -u github.com/zwjlink/ltcutil
 ```
 
 ## GPG Verification Key

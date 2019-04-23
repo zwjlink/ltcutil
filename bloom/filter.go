@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2016 The rocpig developers
+// Copyright (c) 2014-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -9,10 +9,10 @@ import (
 	"math"
 	"sync"
 
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcd/txscript"
-	"github.com/rocpig/ltcd/wire"
-	"github.com/rocpig/ltcutil"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcd/txscript"
+	"github.com/zwjlink/ltcd/wire"
+	"github.com/zwjlink/ltcutil"
 )
 
 // ln2Squared is simply the square of the natural log of 2.

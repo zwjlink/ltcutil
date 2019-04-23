@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2016 The rocpig developers
+// Copyright (c) 2013-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcd/wire"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcd/wire"
 )
 
 // TxIndexUnknown is the value returned for a transaction index that is unknown.

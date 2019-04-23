@@ -1,4 +1,4 @@
-// Copyright (c) 2013-2016 The rocpig developers
+// Copyright (c) 2013-2016 The zwjlink developers
 // Use of this source code is governed by an ISC
 // license that can be found in the LICENSE file.
 
@@ -10,9 +10,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/rocpig/ltcd/chaincfg/chainhash"
-	"github.com/rocpig/ltcutil"
 	"github.com/davecgh/go-spew/spew"
+	"github.com/zwjlink/ltcd/chaincfg/chainhash"
+	"github.com/zwjlink/ltcutil"
 )
 
 // TestTx tests the API for Tx.
